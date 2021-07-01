@@ -1,4 +1,4 @@
-# DoggyUp
+# Doggy Up
 
 <img src="GraphicImage.png" alt="'Doggy Up' Graphic Image"/>
 
