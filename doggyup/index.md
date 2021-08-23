@@ -10,7 +10,7 @@ An infinite adventure of a dog, upwards!
 
 ## Watch Trailer
 
-{% include youtube_embedder.html id=BFCJycQwmQw %}
+{% include youtube_embedder.html id="BFCJycQwmQw" %}
 
 ---
 
