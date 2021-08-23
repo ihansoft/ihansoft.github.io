@@ -10,7 +10,7 @@ An infinite adventure of a dog, upwards!
 
 ## Watch Trailer
 
-[![Doggy Up Trailer](http://img.youtube.com/vi/BFCJycQwmQw/0.jpg)](http://www.youtube.com/watch?v=BFCJycQwmQw "Doggy Up Trailer")
+{% include youtube_embedder.html id=BFCJycQwmQw %}
 
 ---
 
