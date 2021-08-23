@@ -8,6 +8,10 @@ An infinite adventure of a dog, upwards!
 
 <a href='https://play.google.com/store/apps/details?id=com.iHan.DoggyUp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='240'/></a>
 
+## Watch Trailer
+
+[![Doggy Up Trailer](http://img.youtube.com/vi/BFCJycQwmQw/0.jpg)](http://www.youtube.com/watch?v=BFCJycQwmQw "Doggy Up Trailer")
+
 ---
 
 Support : ihansoft@gmail.com
