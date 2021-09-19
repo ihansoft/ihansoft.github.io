@@ -2,7 +2,7 @@
 
 Revival of collapse puzzle
 
-<img src="FeatureGraphic.png" alt="'Doggy Up' Graphic Image"/>
+<img src="FeatureGraphic.png" alt="'Feature Graphic"/>
 
 <!--span style='padding: 16px'><a href='https://apps.apple.com/app/doggy-up/id1572882334'><img alt='Download on the App Store' src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' width='208'/></a></span>
 
