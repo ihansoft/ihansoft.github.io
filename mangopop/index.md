@@ -2,6 +2,8 @@
 
 Revival of collapse puzzle
 
+{% include youtube_embedder.html id="hah_zLnS1E4" %}
+
 <img src="FeatureGraphic.png" alt="'Feature Graphic"/>
 
 <span style='padding: 16px'><a href='https://apps.apple.com/app/mango-pop/id1586085421'><img alt='Download on the App Store' src='https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg' width='208'/></a></span>
