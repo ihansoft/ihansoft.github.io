@@ -11,15 +11,15 @@ Revival of collapse puzzle
 <!--img src="FeatureGraphic.png" alt="'Feature Graphic"/-->
 
 <p align="center">
-  <img alt="Screenshot" src="1242x2208bb.png" width="25%">
+  <img alt="Screenshot" src="1242x2208bb.png" width="30%">
   &nbsp;
-  <img alt="Screenshot" src="1242x2208bb-3.png" width="25%">
+  <img alt="Screenshot" src="1242x2208bb-3.png" width="30%">
   &nbsp;
-  <img alt="Screenshot" src="1242x2208bb-5.png" width="25%">
+  <img alt="Screenshot" src="1242x2208bb-5.png" width="30%">
   &nbsp;
-  <img alt="Screenshot" src="1242x2208bb-2.png" width="25%">
+  <img alt="Screenshot" src="1242x2208bb-2.png" width="30%">
   &nbsp;
-  <img alt="Screenshot" src="1242x2208bb-4.png" width="25%">
+  <img alt="Screenshot" src="1242x2208bb-4.png" width="30%">
 </p>
 
 ---
